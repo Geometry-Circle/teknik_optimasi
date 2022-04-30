@@ -1,1 +1,2 @@
 menambah text file 1
+menambahkan baris 2
